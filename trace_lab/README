@@ -1,0 +1,9 @@
+README!
+
+Authors: Zach Bechhoefer, Benjamin Spenciner, Jake Drake
+
+Compile the program using just 'make'
+
+Run the program with an input trace file, an output file name, the mips pipeline length, and the read stage cycle-count
+
+Ex: ./main traces/gcc-1K.trace output 5 2
